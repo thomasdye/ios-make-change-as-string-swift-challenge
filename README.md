@@ -2,7 +2,7 @@
 
 Create a function `makeChangeAsString(fromAmount:withCost:)` that takes two `Doubles` as parameters - `fromAmount`(the amount given to pay for the purchase) and `withCost`(how much the item costs) and returns a `String` that details the total amount of change returned _and_ the quantity and type of each denomination returned (in dollars, quarters, dimes, nickels and pennies).
 
-#####Example:
+##### Example:
 
 `makeChangeAsString(fromAmount: 5.00, withCost: 2.15)  // returns "Your change is $2.85. That is 2 dollars, 3 quarters, 1 dime, 0 nickels and 0 pennies."`
 
