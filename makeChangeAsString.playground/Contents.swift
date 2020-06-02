@@ -1,5 +1,8 @@
 import UIKit
 
+func makeChangeAsString(fromAmount: Double, withCost: Double) -> String {
+    
+}
 
 
 
